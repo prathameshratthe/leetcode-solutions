@@ -1,8 +1,8 @@
 
-LeetCode Soolutions
+LeetCode Solutions
 ===================
 
-### Prathamesh Ratthe
+### ~ Prathamesh Ratthe
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
